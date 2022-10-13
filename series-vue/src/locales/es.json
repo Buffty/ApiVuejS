@@ -1,0 +1,45 @@
+{
+  "app":{
+    "title": "Trebol Series",
+    "tv": "Programa de televisión",
+    "person": "Personas",
+    "cinema": "En cines"
+  },
+  "loginUser":{
+    "initSession": "Iniciar sesión",
+    "connect": "Conectar",
+    "user": "Usuario",
+    "password": "Contraseña"
+  },
+  "initHome":{
+    "detail": "Detalles"
+  },
+  "navBar":{
+    "serie": "Serie",
+    "series": "Series",
+    "pelicula": "Pelicula",
+    "peliculas": "Peliculas",
+    "categoria": "Categoria",
+    "categorias": "Categorias"
+  },
+  "categorias": {
+    "terror": "Terror",
+    "drama": "Drama",
+    "comedia": "Comedia"
+  },
+  "footer":{
+    "home": "Home",
+    "aboutUs": "Sobre nosotros",
+    "team": "Equipo",
+    "blog": "Blog",
+    "contactUs": "Contactanos"
+  },
+  "detailTV":{
+    "creators": "Creadores",
+    "sinopsis": "Sinopsis",
+    "etiquetas": "Categorías",
+    "productors": "Productores",
+    "lastEpisode": "Último episodio",
+    "return": "Volver"
+  }
+}
